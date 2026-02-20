@@ -1,0 +1,7 @@
+## Interface: 110007
+## Title: Zygor Guides Viewer (Brasil)
+## Notes: Guia profissional para World of Warcraft.
+## Author: Zygor Brasil
+## Version: 1.0
+
+ZygorGuidesViewer.lua
